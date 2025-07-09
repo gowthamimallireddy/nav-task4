@@ -8,6 +8,8 @@ body{
     width:90%; 
     height:auto; 
     background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
     font-family: "Raleway", sans-serif;
 }
 .logo{
